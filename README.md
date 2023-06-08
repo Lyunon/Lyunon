@@ -5,7 +5,7 @@
 
 <h3 align="center"><b> Blog <b>
 <p align="center">
-  <a href="https://lyunonblog.me"><img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E>
+  <a href="https://lyunonblog.me"><img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E">
 
 
 

@@ -6,8 +6,9 @@
 <h3 align="center"><b> Blog <b>
 <p align="center">
   <a href="https://lyunonblog.me"><img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E">
-
-
+<h3 align="center"><b> Social <b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> 륜온#2443 / @lyunon
 
 
 <!--

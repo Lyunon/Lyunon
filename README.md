@@ -16,3 +16,5 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyunon&show_icons=true&theme=cobalt)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygh7820)](https://solved.ac/{handle})

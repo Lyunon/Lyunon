@@ -17,4 +17,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyunon&show_icons=true&theme=cobalt)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygh7820)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygh7820)](https://solved.ac/ygh7820)
